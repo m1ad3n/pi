@@ -1,0 +1,5 @@
+# binary folder
+bin
+
+# makefile (only works for linux)
+Makefile
