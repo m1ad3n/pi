@@ -1,4 +1,4 @@
-### Calculating value fo PI in C
+### Calculating value for PI in C
 
 ### Source Files
 - [Here](https://github.com/m1ad3n/pi/tree/master/src)
